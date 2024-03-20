@@ -1,6 +1,6 @@
 # CMS Change Log
 
-## Version 2.0.0 - March 20, 2024
+## Version 2.0.0 - March 20, 2024 1
 
 ### Features
 - Added support for multi-language content.
