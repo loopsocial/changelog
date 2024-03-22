@@ -2,6 +2,8 @@
 
 ## Version 2.0.0 - March 20, 2024 1
 
+#Test
+
 ### Features
 - Added support for multi-language content.
 - Implemented user roles and permissions management.
