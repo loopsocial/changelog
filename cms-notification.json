@@ -1,14 +1,30 @@
-[
-  {
-    id: 1,
-    title: "New Feature Released",
-    description: "We have released a new feature today.",
-    timestamp: "2023-09-12T12:00:00Z"
-  },
-  {
-    id: 2,
-    title: "Scheduled Maintenance",
-    description: "The system will be under maintenance from 2 AM to 4 AM.",
-    timestamp: "2023-09-13T02:00:00Z"
-  }
-]
+{
+  "en": [
+    {
+      "id": 1,
+      "title": "New Feature Released",
+      "description": "We have released a new feature today.",
+      "timestamp": "2023-09-12T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Scheduled Maintenance",
+      "description": "The system will be under maintenance from 2 AM to 4 AM.",
+      "timestamp": "2023-09-13T02:00:00Z"
+    }
+  ],
+  "jp": [
+    {
+      "id": 1,
+      "title": "新機能がリリースされました",
+      "description": "本日、新機能をリリースしました。",
+      "timestamp": "2023-09-15T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "定期メンテナンス",
+      "description": "システムは午前2時から午前4時までメンテナンスを行います。",
+      "timestamp": "2023-09-18T02:00:00Z"
+    }
+  ]
+}
