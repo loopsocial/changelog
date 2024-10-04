@@ -19,7 +19,7 @@
       "timestamp": "2023-09-19T02:00:00Z"
     },
     {
-    "id": 4,
+      "id": 4,
       "title": "New Security Patch",
       "description": "We have released an important security patch today.",
       "timestamp": "2023-09-22T10:00:00Z"
@@ -43,6 +43,12 @@
       "title": "定期メンテナンス",
       "description": "システムは午前2時から午前4時までメンテナンスを行います。",
       "timestamp": "2023-09-18T02:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "新しいアップデートが利用可能です",
+      "description": "全てのユーザー向けに新しいシステムアップデートが利用可能になりました。",
+      "timestamp": "2023-10-04T09:00:00Z"
     }
   ],
   "zh-HK": [
@@ -63,6 +69,12 @@
       "title": "系統更新",
       "description": "系統將在下週進行重要更新。",
       "timestamp": "2023-09-19T02:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "新更新可用",
+      "description": "現在所有用戶都可以獲得系統更新。",
+      "timestamp": "2023-10-04T09:00:00Z"
     }
   ],
   "es": [
@@ -83,6 +95,12 @@
       "title": "Actualización del Sistema",
       "description": "El sistema será actualizado la próxima semana.",
       "timestamp": "2023-09-19T02:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Nueva Actualización Disponible",
+      "description": "Una nueva actualización del sistema está disponible para todos los usuarios.",
+      "timestamp": "2023-10-04T09:00:00Z"
     }
   ]
 }
