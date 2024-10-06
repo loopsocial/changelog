@@ -35,6 +35,12 @@
       "title": "New Update Available",
       "description": "A new system update is now available for all users.",
       "timestamp": "2023-10-05T09:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "New Feature Released",
+      "description": "A new feature has been added to enhance user experience.",
+      "timestamp": "2023-10-07T09:00:00Z"
     }
   ],
   "ja": [
@@ -55,6 +61,12 @@
       "title": "新しいアップデートが利用可能です",
       "description": "全てのユーザー向けに新しいシステムアップデートが利用可能になりました。",
       "timestamp": "2023-10-04T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "新機能が追加されました",
+      "description": "ユーザー体験を向上させるための新機能が追加されました。",
+      "timestamp": "2023-10-07T09:00:00Z"
     }
   ],
   "zh-HK": [
@@ -81,6 +93,12 @@
       "title": "新更新可用",
       "description": "現在所有用戶都可以獲得系統更新。",
       "timestamp": "2023-10-04T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "新功能已添加",
+      "description": "為改善用戶體驗，我們添加了新功能。",
+      "timestamp": "2023-10-07T09:00:00Z"
     }
   ],
   "es": [
@@ -107,6 +125,38 @@
       "title": "Nueva Actualización Disponible",
       "description": "Una nueva actualización del sistema está disponible para todos los usuarios.",
       "timestamp": "2023-10-04T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Nueva Función Agregada",
+      "description": "Se ha agregado una nueva función para mejorar la experiencia del usuario.",
+      "timestamp": "2023-10-07T09:00:00Z"
+    }
+  ],
+  "it": [
+    {
+      "id": 1,
+      "title": "Nuova Funzione Rilasciata",
+      "description": "Abbiamo rilasciato una nuova funzione oggi.",
+      "timestamp": "2023-09-12T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Manutenzione Programmata",
+      "description": "Il sistema sarà in manutenzione dalle 2:00 alle 4:00.",
+      "timestamp": "2023-09-13T02:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Nuovo Aggiornamento Disponibile",
+      "description": "Un nuovo aggiornamento del sistema è ora disponibile per tutti gli utenti.",
+      "timestamp": "2023-10-04T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Nuova Funzione Aggiunta",
+      "description": "Abbiamo aggiunto una nuova funzione per migliorare l'esperienza dell'utente.",
+      "timestamp": "2023-10-07T09:00:00Z"
     }
   ]
 }
