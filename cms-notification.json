@@ -1,2 +1,132 @@
 {
+  "en": [
+    {
+      "id": 1,
+      "title": "New Feature Released",
+      "description": "We have released a new feature today.",
+      "timestamp": "2023-09-12T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Scheduled Maintenance",
+      "description": "The system will be under maintenance from 2 AM to 4 AM.",
+      "timestamp": "2024-10-06T02:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Important Update",
+      "description": "A new update will be available soon.",
+      "timestamp": "2024-10-08T12:00:00Z"
+    }
+  ],
+  "ja": [
+    {
+      "id": 1,
+      "title": "新機能がリリースされました",
+      "description": "本日、新機能をリリースしました。",
+      "timestamp": "2023-09-15T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "定期メンテナンス",
+      "description": "システムは午前2時から午前4時までメンテナンスを行います。",
+      "timestamp": "2024-10-04T02:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "新しいアップデート",
+      "description": "新しいアップデートが近日中に利用可能になります。",
+      "timestamp": "2024-10-08T12:00:00Z"
+    }
+  ],
+  "zh-HK": [
+    {
+      "id": 1,
+      "title": "新功能發佈",
+      "description": "我們今天發佈了一個新功能。",
+      "timestamp": "2023-09-12T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "計劃維護",
+      "description": "系統將在凌晨2點到4點之間進行維護。",
+      "timestamp": "2024-10-04T02:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "重要更新",
+      "description": "新更新將於近日推出。",
+      "timestamp": "2024-10-08T12:00:00Z"
+    }
+  ],
+  "es": [
+    {
+      "id": 1,
+      "title": "Nueva Función Lanzada",
+      "description": "Hemos lanzado una nueva función hoy.",
+      "timestamp": "2023-09-12T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Mantenimiento Programado",
+      "description": "El sistema estará en mantenimiento de 2 AM a 4 AM.",
+      "timestamp": "2023-09-13T02:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Actualización del Sistema",
+      "description": "El sistema será actualizado la próxima semana.",
+      "timestamp": "2023-09-19T02:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Nueva Actualización Disponible",
+      "description": "Una nueva actualización del sistema está disponible para todos los usuarios.",
+      "timestamp": "2024-10-04T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Nueva Función Agregada",
+      "description": "Se ha agregado una nueva función para mejorar la experiencia del usuario.",
+      "timestamp": "2024-10-07T09:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Próxima Actualización",
+      "description": "Una importante actualización estará disponible pronto.",
+      "timestamp": "2024-10-08T12:00:00Z"
+    }
+  ],
+  "it": [
+    {
+      "id": 1,
+      "title": "Nuova Funzione Rilasciata",
+      "description": "Abbiamo rilasciato una nuova funzione oggi.",
+      "timestamp": "2023-09-12T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Manutenzione Programmata",
+      "description": "Il sistema sarà in manutenzione dalle 2:00 alle 4:00.",
+      "timestamp": "2023-09-13T02:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Nuovo Aggiornamento Disponibile",
+      "description": "Un nuovo aggiornamento del sistema è ora disponibile per tutti gli utenti.",
+      "timestamp": "2023-10-04T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Nuova Funzione Aggiunta",
+      "description": "Abbiamo aggiunto una nuova funzione per migliorare l'esperienza dell'utente.",
+      "timestamp": "2023-10-07T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Prossimo Aggiornamento",
+      "description": "Un importante aggiornamento sarà disponibile presto.",
+      "timestamp": "2024-10-08T12:00:00Z"
+    }
+  ]
 }
